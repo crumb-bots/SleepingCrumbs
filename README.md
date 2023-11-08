@@ -1,2 +1,2 @@
 # SleepingCrumbs
-Bread AI's solution to inactive bots
+Bread AI's solution to inactive crumbs
