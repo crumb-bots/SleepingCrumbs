@@ -1,5 +1,7 @@
 # SleepingCrumbs
-Bread AI's solution to inactive crumbs
+Bread AI's solution to inactive crumbs.
+
+A lightweight, bare minimum Discord API client. Saves server resources on inactive crumbs.
 
 # License
 ```
